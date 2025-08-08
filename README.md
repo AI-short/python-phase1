@@ -5,3 +5,5 @@ This repository contains my daily Python learning progress as part of my AI Engi
 ## Day-wise Progress
 
 - **Day 1:** Python Basics – print(), variables, strings, comments
+
+- **Day 2:** Conditional Logic & String Methods
