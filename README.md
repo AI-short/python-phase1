@@ -8,5 +8,7 @@ This repository contains my daily Python learning progress as part of my AI Engi
 
 - **Day 2:** Conditional Logic & String Methods
 
+- **Day 3:** Lists, Tuples, and Loops in Python  
+
 
 
